@@ -1,1 +1,1 @@
-# tracker
+# Um tracker de séries, conforme exposto no curso, peguei o modelo inicial e adequei ao que eu utilizaria, além de resolver algumas exceptions.
